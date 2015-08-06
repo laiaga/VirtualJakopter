@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: d3f3265eaf1639148a6fc8c83f010f54
+timeCreated: 1434557646
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Card01
+    100002: Card02
+    100004: Card03
+    100006: Card04
+    100008: Foot004
+    100010: Foot01
+    100012: Foot02
+    100014: Foot03
+    100016: Gear01
+    100018: Gear02
+    100020: Gear03
+    100022: Gear04
+    100024: Hull
+    100026: Motor01
+    100028: Motor02
+    100030: Motor03
+    100032: Motor04
+    100034: //RootNode
+    100036: ParrotBody
+    100038: Wing01
+    100040: Wing02
+    100042: Wing03
+    100044: Wing04
+    100046: default
+    400000: Card01
+    400002: Card02
+    400004: Card03
+    400006: Card04
+    400008: Foot004
+    400010: Foot01
+    400012: Foot02
+    400014: Foot03
+    400016: Gear01
+    400018: Gear02
+    400020: Gear03
+    400022: Gear04
+    400024: Hull
+    400026: Motor01
+    400028: Motor02
+    400030: Motor03
+    400032: Motor04
+    400034: //RootNode
+    400036: ParrotBody
+    400038: Wing01
+    400040: Wing02
+    400042: Wing03
+    400044: Wing04
+    400046: default
+    2300000: Card01
+    2300002: Card02
+    2300004: Card03
+    2300006: Card04
+    2300008: Foot004
+    2300010: Foot01
+    2300012: Foot02
+    2300014: Foot03
+    2300016: Gear01
+    2300018: Gear02
+    2300020: Gear03
+    2300022: Gear04
+    2300024: Hull
+    2300026: Motor01
+    2300028: Motor02
+    2300030: Motor03
+    2300032: Motor04
+    2300034: ParrotBody
+    2300036: Wing01
+    2300038: Wing02
+    2300040: Wing03
+    2300042: Wing04
+    2300044: default
+    3300000: Card01
+    3300002: Card02
+    3300004: Card03
+    3300006: Card04
+    3300008: Foot004
+    3300010: Foot01
+    3300012: Foot02
+    3300014: Foot03
+    3300016: Gear01
+    3300018: Gear02
+    3300020: Gear03
+    3300022: Gear04
+    3300024: Hull
+    3300026: Motor01
+    3300028: Motor02
+    3300030: Motor03
+    3300032: Motor04
+    3300034: ParrotBody
+    3300036: Wing01
+    3300038: Wing02
+    3300040: Wing03
+    3300042: Wing04
+    3300044: default
+    4300000: Card01
+    4300002: Card02
+    4300004: Card03
+    4300006: Card04
+    4300008: Foot004
+    4300010: Foot01
+    4300012: Foot02
+    4300014: Foot03
+    4300016: Gear01
+    4300018: Gear02
+    4300020: Gear03
+    4300022: Gear04
+    4300024: Hull
+    4300026: Motor01
+    4300028: Motor02
+    4300030: Motor03
+    4300032: Motor04
+    4300034: ParrotBody
+    4300036: Wing01
+    4300038: Wing02
+    4300040: Wing03
+    4300042: Wing04
+    4300044: default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
